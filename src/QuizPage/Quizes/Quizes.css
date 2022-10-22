@@ -1,0 +1,91 @@
+.title{
+    padding: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Quiz{
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    gap: 5%;
+    color: #64638f;
+    background-color: #cbc9ff;
+}
+
+
+#Qdropdown {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #64638f;
+    border:1px solid beige;
+    left: 50%;
+    right: auto;
+    text-emphasis: center;
+    transform: translate(50%, 0);
+
+}
+
+.progress-bar{
+    padding-top: 10px;
+    grid-area: d;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prev, .next {
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    background-color: #221f3b;
+    color: white;
+    /* border: 1px solid beige; */
+    border-radius: 0.5rem;
+    position: absolute;
+
+}
+
+.Questions{
+    padding-bottom: 3rem;
+    background-color: #cbc9ff;
+
+}
+
+/* Button Alignment */
+.next{
+    margin: 2rem 2rem 2rem 26rem;
+
+}
+
+.prev{
+    margin: 2rem;
+}
+
+
+/* Dropdown questions alignment */
+.dropdownQuestions{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.rating{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.quest{
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+
+.together{
+    margin: auto;
+}
+
+@media(max-width:575px)
+{
+    #Qdropdown {
+        transform: translate(10%)
+    }
+}

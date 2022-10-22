@@ -1,0 +1,36 @@
+.SignUpPage{
+    background-color: #cbc9ff;
+    padding-bottom: 10rem;
+    text-align: left;
+}
+
+.Brand{
+    font-size:140%;
+    grid-area:B;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signup{
+    grid-area: S;
+    width:100%;
+}
+.signup form{
+    width:100%;
+    margin-right: 50%;
+    padding-top: 10px;
+}
+.signup input{
+    display:block;
+    width:90%;
+}
+.button{
+    grid-area:N;
+    width:100%;
+}
+
+.privPolicy {
+    text-align: center;
+}
+

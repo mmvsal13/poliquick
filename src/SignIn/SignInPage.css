@@ -1,0 +1,213 @@
+
+h2{
+  padding-bottom: 1rem;
+  font-size: 2rem;
+}
+
+
+/* Layout of the Overall Page */
+.Layout{
+  font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+  display:grid;
+  grid-template-areas: 
+  "B S"
+  "B N";
+  grid-template-columns: 1fr 50%;
+  gap: 5%;
+  justify-items:center;
+  padding-top: 10%;
+  color: #64638f;
+}
+
+.top-container{
+  background-color: #cbc9ff;
+  padding-bottom: 10rem;
+  text-align: left;
+}
+
+.titleSignIn{
+  padding: 0px;
+}
+
+
+.Brand{
+  font-size:140%;
+  grid-area:B;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.Brand img{
+  max-width: 100%;
+  width:60%;
+  display: block;
+  animation: test;
+  animation-duration: 5s;
+}
+
+.Signup{
+  grid-area:S;
+  width:100%;
+}
+.Signup form{
+
+  width:100%;
+  margin-right: 50%;
+  padding-top: 10px;
+}
+.Signup input{
+  display:block;
+  width:90%;
+}
+
+.signUp{
+  position: sticky;
+  top: 0px;
+}
+
+.signUpLink{
+color: #64638f;
+}
+
+.signUpLink:hover{
+color: #9795cf;
+}
+
+.pageNav{
+  grid-area:N;
+  font-size:1rem;
+  text-align: center;
+  padding-right: 1.5rem;
+}
+
+
+
+/*Features Section*/
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feature-desc{
+  color: #8f8f8f;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #aba9e9;
+  margin-bottom: 1rem;
+
+}
+
+.icon:hover{
+  color: #9795cf;
+}
+
+
+/* Testimonials */
+
+#testimonials{
+text-align: center;
+background-color: #9795cf;
+color: #fff;
+}
+
+.testimonial-image{
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+}
+
+.carousel-item{
+padding: 7% 15%;
+}
+
+
+
+/* Footer */
+
+#footer{
+padding: 7% 15%;
+text-align: center;
+}
+
+.social-media{
+color: black;
+padding: 0.5%
+}
+
+.copyright{
+padding-top: 1%;
+}
+
+   /* Overrides for Mobile Styling */
+@media(max-width:575px)
+{
+
+h2{
+  font-size: 1.5rem;
+}
+
+.tag-line{
+  font-size: 1.5rem;
+}
+
+.top-container{
+  background-color: #cbc9ff;
+  padding-bottom: 7rem;
+  text-align: left;
+}
+  .Layout{
+      grid-template-areas: 
+      "B"
+      "S"
+      "N";
+      grid-template-columns: auto;
+      padding: 10%;
+  }
+  .Brand{
+      flex-direction:row-reverse;
+      justify-content: flex-end;
+  }
+  .Brand img{
+      width:20%;
+      padding:3%;
+  }
+  
+  .Signup{
+      font-size:1rem;
+  }
+
+  .feature-title{
+    font-size: 1.5rem;
+  }
+  .feature-desc{
+    font-size: 1rem;
+    padding-top: 0;
+  }
+
+  .testimonial-text{
+    font-size: 1.5rem;
+  }
+
+  .testimonial-image{
+    width: 20%;
+    }
+
+  .icon{
+    size: 70%;
+  }
+
+  i{
+    padding: 7%;
+  }
+
+
+}

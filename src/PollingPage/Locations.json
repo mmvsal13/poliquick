@@ -1,0 +1,396 @@
+{
+    "miami" : [
+        {
+            "id": "A",    
+            "locationName" : "Coral Reef Branch Library",
+            "line1" : "9211 SW 152ND Street ",
+            "line2" : "",
+            "city": "Miami",
+            "state" : "FL",
+            "zip": "33157",
+            "lat": 25.629391,
+            "long": -80.342983
+        },
+        {
+                "id": "B",
+                "locationName" : "Historic Garage ",
+                "line1" : "3250 S Miami Avenue",
+                "line2" : "",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33129",
+                "lat": 25.744364,
+                "long": -80.210499
+        },
+        {
+                "id": "C",
+                "locationName" : "Florida International University ",
+                "line1" : "11200 SW 8TH Street ",
+                "line2" : "",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33199",
+                "lat": 25.760560,
+                "long": -80.376070
+        },
+        {
+                "id": "D",
+                "locationName" : "Joseph Caleb Center Community Meeting Room ",
+                "line1" : "5400 NW 22ND Avenue",
+                "line2" : "Building A",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33142",
+                "lat": 25.825090,
+                "long": 80.233790
+        },
+        {
+                "id": "E",
+                "locationName" : "Kendall Branch Library",
+                "line1" : "9101 SW 97TH Avenue ",
+                "line2" : "",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33176",
+                "lat": 25.685660,
+                "long": -80.350270
+        },
+        {
+                "id": "F",
+                "locationName" : "Lemon City Library",
+                "line1" : "430 NE 61ST Street",
+                "line2" : "",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33176",
+                "lat": 25.832390,
+                "long": -80.187030
+        },
+        {
+                "id": "G",
+                "locationName" : "Miami Dade College Kendall Campus",
+                "line1" : "11011 SW 104TH Street",
+                "line2" : "Building K",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33176",
+                "lat": 25.672860,
+                "long": -80.376830
+        },
+        {
+                "id": "H",
+                "locationName" : "Miami Dade College North Campus (Library)",
+                "line1" : "11380 NW 27TH Avenue",
+                "line2" : "Building 2",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33176",
+                "lat": 25.649836,
+                "long": -80.378189
+        },
+        {
+                "id": "I",
+                "locationName" : "Stephen P. Clark Gov’t Center ",
+                "line1" : "111 NW 1ST Street",
+                "line2" : "",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33128",
+                "lat": 25.775622,
+                "long": -80.196923
+        },
+        {
+                "id": "J",
+                "locationName" : "West Dade Regional Library",
+                "line1" : "9445 SW 24TH Street ",
+                "line2" : "",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33165",
+                "lat": 25.747948,
+                "long": -80.333088
+        },
+        {
+                "id": "K",
+                "locationName" : "West Kendall Regional Library ",
+                "line1" : "10201 Hammocks Boulevard",
+                "line2" : "",
+                "city": "Miami",
+                "state" : "FL",
+                "zip": "33196",
+                "lat": 25.673020,
+                "long": -80.440931
+        }
+    ],
+
+    "elPaso" : [
+        {
+            "id": "A",
+            "locationName" : "Anthony City Hall",
+            "line1" : "401 Wildcat Dr",
+            "line2" : "",
+            "city": "Anthony",
+            "state" : "TX",
+            "zip": "79821",
+            "lat": 31.991897,
+            "long": -106.602282
+        },
+        {
+            "id": "B",
+            "locationName" : "El Paso County Northwest Annex",
+            "line1" : "435 Vinton Rd",
+            "line2" : "",
+            "city": "Anthony",
+            "state" : "TX",
+            "zip": "79821",
+            "lat": 31.789431,
+            "long": -106.492042
+        }, 
+        {
+                "id": "C",
+                "locationName" : "Canutillo Middle School",
+                "line1" : "7311 Bosque Rd",
+                "line2" : "",
+                "city": "Canutillo",
+                "state" : "TX",
+                "zip": "79912",
+                "lat": 31.783945,
+                "long": -106.459283
+        },
+        {
+                "id": "D",
+                "locationName" : "Polk Elementary School",
+                "line1" : "940 Belvidiere St.",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79912",
+                "lat": 31.851642,
+                "long": -106.542640
+        },
+        {
+                "id": "E",
+                "locationName" : "Community Connections Center",
+                "line1" : "5300 Warriors Dr",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79912",
+                "lat": 31.850569,
+                "long": -106.594458
+        },
+        {
+                "id": "F",
+                "locationName" : "Fire Station #15",
+                "line1" : "115 Shorty Ln",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79922",
+                "lat": 31.836767,
+                "long": -106.579488
+        },
+        {
+                "id": "G",
+                "locationName" : " Elementary School",
+                "line1" : "5300 Warriors Dr",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79912",
+                "lat": 31.850569,
+                "long": -106.594458
+        },
+        {
+                "id": "H",
+                "locationName" : "Reyes Elementary School",
+                "line1" : "7440 Northern Pass Dr",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79911",
+                "lat": 31.796000,
+                "long": -106.559580
+        },
+        {
+                "id": "I",
+                "locationName" : "Franklin Magnet Center",
+                "line1" : "825 E Redd Rd",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79912",
+                "lat": 31.862441,
+                "long": -106.551296
+        },
+        {
+                "id": "J",
+                "locationName" : "The MonteVista at Coronado",
+                "line1" : "1575 Belvidere St",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79912",
+                "lat": 31.817875,
+                "long": -106.522407
+        },
+        {
+                "id": "K",
+                "locationName" : "Good Samaritan Center",
+                "line1" : "7304 Good Samaritan Ct",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79912",
+                "lat": 31.845839,
+                "long": -106.559936
+        },
+        {
+                "id": "L",
+                "locationName" : "Glen clove Elementary School",
+                "line1" : "10955 Sam Snead Dr",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79936",
+                "lat": 31.777063,
+                "long": -106.527934
+        },
+        {
+                "id": "M",
+                "locationName" : "Thomas Jefferson High School",
+                "line1" : "4700 Alameda Ave",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79905",
+                "lat": 31.770708,
+                "long": -106.435507
+        },
+        {
+                "id": "N",
+                "locationName" : "Allie D. Clardy Elementary School",
+                "line1" : "5508 Delta Dr",
+                "line2" : "",
+                "city": "El Paso",
+                "state" : "TX",
+                "zip": "79905",
+                "lat": 31.760182,
+                "long": -106.426120
+        }
+    ],
+
+    "cambridge" : [
+        {
+            "id": "A",
+            "locationName" : "Gund Hall",
+            "line1" : "48 Quincy St",
+            "line2" : "",
+            "city": "Cambridge",
+            "state" : "MA",
+            "zip": "02139",
+            "lat": 42.376007,
+            "long": -71.113794
+        },
+        {
+            "id": "B",
+            "locationName" : "Quincy House",
+            "line1" : "58 Plympton St",
+            "line2" : "",
+            "city": "Cambridge",
+            "state" : "MA",
+            "zip": "02139",
+            "lat": 42.370657,
+            "long": -71.116624
+        },
+        {
+                "id": "C",
+                "locationName" : "City Hall Annex",
+                "line1" : "344 Broadway",
+                "line2" : "",
+                "city": "Cambridge",
+                "state" : "MA",
+                "zip": "02139",
+                "lat": 42.369996,
+                "long": -71.103397
+        },
+        {
+                "id": "D",
+                "locationName" : "Cambridge Rehab/Nursing Center",
+                "line1" : "8 Dana St",
+                "line2" : "",
+                "city": "Cambridge",
+                "state" : "MA",
+                "zip": "02139",
+                "lat": 42.369427,
+                "long": -71.110154
+        },
+        {
+                "id": "E",
+                "locationName" : "LBJ Apartments",
+                "line1" : "150 Erie St",
+                "line2" : "",
+                "city": "Cambridge",
+                "state" : "MA",
+                "zip": "02139",
+                "lat": 42.359285,
+                "long": -71.106922
+        },
+        {
+                "id": "F",
+                "locationName" : "Cadbury Commons",
+                "line1" : "66 Sherman St",
+                "line2" : "",
+                "city": "Cambridge",
+                "state" : "MA",
+                "zip": "02139",
+                "lat": 42.387568,
+                "long": -71.131432
+        },
+        {
+                "id": "G",
+                "locationName" : "Corcoran Park Community Building",
+                "line1" : "1 Corcoran Lane",
+                "line2" : "",
+                "city": "Cambridge",
+                "state" : "MA",
+                "zip": "02139",
+                "lat": 42.376395,
+                "long": -71.153646
+        },
+        {
+                "id": "H",
+                "locationName" : "O'Connell Branch Library",
+                "line1" : "48 Sixth St",
+                "line2" : "",
+                "city": "Cambridge",
+                "state" : "MA",
+                "zip": "02139",
+                "lat": 42.370446,
+                "long": -71.084797
+        },
+        {
+                "id": "I",
+                "locationName" : "M.I.T.",
+                "line1" : "70 Massachusetts Ave",
+                "line2" : "",
+                "city": "Cambridge",
+                "state" : "MA",
+                "zip": "02139",
+                "lat": 42.358824,
+                "long": -71.093659
+        },
+        {
+                "id": "J",
+                "locationName" : "Salvation Army Headquarters",
+                "line1" : "402 Massachusetts Ave",
+                "line2" : "",
+                "city": "Cambridge",
+                "state" : "MA",
+                "zip": "02139",
+                "lat": 42.363034,
+                "long": -71.100513
+        }
+
+    ]
+}

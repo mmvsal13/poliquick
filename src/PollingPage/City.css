@@ -1,0 +1,82 @@
+.map{
+    overflow: hidden;
+    padding-left: 10%;
+    grid-area: m;
+    height: 700px;
+    width: 100%;
+    position: relative;
+}
+
+.City{
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    display:grid;
+    grid-template-areas: 
+    "h h"
+    "i v"
+    ". b"
+    "m t";
+    grid-template-columns: 1fr 50%;
+    gap: 5%;
+    justify-items:center;
+    padding-top: 2%;
+    color: #64638f;
+}
+
+.header{
+    grid-area:h;
+    margin-bottom: -15%;
+    text-align: center;
+}
+
+.locations{
+    grid-area: t;
+}
+
+.docs{
+    font-size: medium;
+    grid-area: i;
+    margin-bottom: -8%;
+}
+
+.vote{
+    background-color: lavender;
+    font-weight: bold;
+    grid-area: v;
+    margin-bottom: -5%;
+}
+
+.back{
+    background-color: lavender;
+    font-weight: bold;
+    grid-area: b;
+    margin-bottom: -20px;
+}
+    
+
+ /* Overrides for Mobile Styling */
+@media(max-width:575px)
+{
+    .City{
+        grid-template-areas: 
+        "h"
+        "i"
+        "v"
+        "b"
+        "m"
+        "t";
+        grid-template-columns: auto;
+        padding: 2%;
+        padding-bottom: 2%;
+    }
+
+    .map {
+        padding-left: 0;
+        overflow: hidden;
+        height: 400px;
+        width: 100%;
+        position: relative;        
+    }
+
+}
+
+

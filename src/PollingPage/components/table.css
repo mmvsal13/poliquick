@@ -1,0 +1,21 @@
+#locationTable{
+    /* TODO: include a background color of 'slateblue' for the table */
+    color: black;
+    background-color: rgb(210, 246, 255);
+    margin: 1em;
+    border-collapse: collapse;
+}
+/* This CSS style selects only the odd numbered rows in the table body */
+#locationTable tbody > tr:nth-child(odd) { background-color: lavender; 
+                            color: black;}
+
+#locationTable td, th {
+    padding:1em;
+    border:1px solid beige;
+}
+
+#locationTable th {
+    background-color: #64638f;
+    color: white
+}
+/* TODO: Add a background color styling of 'darkgrey' for the table header <th> element */
